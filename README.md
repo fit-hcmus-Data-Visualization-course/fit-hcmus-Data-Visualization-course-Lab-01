@@ -1,2 +1,1 @@
-## FIT@HCMUS | CSC10108 – TRỰC QUAN HÓA DỮ LIỆU
-### LAB-01: TRỰC QUAN HÓA DỮ LIỆU VỚI PYTHON
+Explore the factors influencing employee attrition and propose measures to reduce this rate using statistical and graphical techniques with Python. Build a machine learning model (Logistic Regression) with sklearn to predict employee attrition based on these factors.
